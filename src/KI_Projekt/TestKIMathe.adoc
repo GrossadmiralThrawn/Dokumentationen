@@ -4,6 +4,7 @@
 :toc-title: Inhaltsverzeichnis
 :numbered:
 
+'''
 
 == Vorbereitungen
 === Bewertungsschema
@@ -14,6 +15,8 @@
     5. Zusammenfassung der Aufgabe
     6. Daten und Ergebnisse von möglichen Wiederholungen
 
+'''
+
 === Verwendete Chatbots
     1. ChatGPT
     2. Gemini
@@ -21,7 +24,9 @@
 == Ilias-Aufgabentests
 === Test 1
 ==== Datum
-- 17.6.2024
+- 17.6.2024 und 18.6.2024
+
+'''
 
 ==== Aufgabenstellung
     Aus Erfahrung ist bekannt, dass bei Fahrzeugen, die der Autohändler "Marschda" in Zahlung nimmt, zu 45 % Mängel am Motor, zu 55% an der Karosserie und zu 10 % an Motor und Karosserie auftreten. Mit Wahrscheinlichkeit 40% weisen die Fahrzeuge Mängel an der Elektrik auf. Diese Mängel treten unabhängig von denen an Motor und Karosserie auf. Wie groß ist die Wahrscheinlichkeit dafür, dass ein in Zahlung genommener Wagen
@@ -31,6 +36,8 @@
     d) auch einen Mangel am Motor besitzt, wenn offensichtlich ist, dass die Karosserie Schäden aufweist,
     e) Mängel an Karosserie, Motor und Elektrik?
 
+'''
+
 ==== Lösung
       1a) 0,45
       1b) 0,35
@@ -38,12 +45,25 @@
       1d) 0,182
       1e) 0,04
 
+'''
+
 ==== Antwort der Chatbots
 
 ===== ChatGPT
-image::Screenshot (2).png[Erster Teil der Antwort, alt="Zeigt den ersten Teil der Antwort ChatGPTs", width=600, height=400, align=center]
-image::Screenshot (3).png[Zweiter Teil der Antwort, alt="Der Tragödie zweiter Teil", width=600, height=400, align=center]
-image::Screenshot (4).png[Dritter Teil der Antwort, alt="Der Tragödie dritter Teil", width=600, height=400, align=center]
-image::Screenshot (5).png[Vierter Teil der Antwort, alt="Der Tragödie vierter Teil", width=600, height=400, align=center]
-image::Screenshot (6).png[Fünfter Teil der Antwort, alt="Der Tragödie fünfter Teil, width=600, height=400, align=center]
-image::Screenshot (7).png[Sechster Teil der Antwort, alt="Der Tragödie sechster Teil", width=600, height=400, align=center]
+image::Screenshot (2).png[Erster Teil der Antwort, alt="Zeigt den ersten Teil der Antwort ChatGPTs", align=center]
+image::Screenshot (3).png[Zweiter Teil der Antwort, alt="Der Tragödie zweiter Teil", align=center]
+image::Screenshot (4).png[Dritter Teil der Antwort, alt="Der Tragödie dritter Teil", align=center]
+image::Screenshot (5).png[Vierter Teil der Antwort, alt="Der Tragödie vierter Teil", align=center]
+image::Screenshot (6).png[Fünfter Teil der Antwort, alt="Der Tragödie fünfter Teil, align=center]
+image::Screenshot (7).png[Sechster Teil der Antwort, alt="Der Tragödie sechster Teil", align=center]
+
+
+'''
+
+
+===== Gemini
+image::Screenshot (8).png[Teil 1 der Antwort Geminis, alt="Beginn der Antwort Geminis",align=center"]
+image::Screenshot (9).png[Teil 2 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center"]
+image::Screenshot (10).png[Teil 3 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center"]
+image::Screenshot (11).png[Teil 4 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center"]
+image::Screenshot (12).png[Teil 1 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center"]

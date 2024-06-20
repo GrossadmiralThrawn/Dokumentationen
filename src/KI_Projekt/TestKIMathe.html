@@ -556,11 +556,14 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <ul class="sectlevel2">
 <li><a href="#_bewertungsschema">1.1. Bewertungsschema</a></li>
 <li><a href="#_verwendete_chatbots">1.2. Verwendete Chatbots</a></li>
+<li><a href="#_warum">1.3. Warum?</a></li>
+<li><a href="#_was_wird_nicht_verwendet">1.4. Was wird nicht verwendet</a></li>
 </ul>
 </li>
 <li><a href="#_ilias_aufgabentests">2. Ilias-Aufgabentests</a>
 <ul class="sectlevel2">
 <li><a href="#_test_1">2.1. Test 1</a></li>
+<li><a href="#_test_2">2.2. Test 2</a></li>
 </ul>
 </li>
 </ul>
@@ -611,8 +614,37 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li>
 <p>Gemini</p>
 </li>
+<li>
+<p>Wolfram Alpha</p>
+</li>
+<li>
+<p>Mathematica basierend auf LaPac</p>
+</li>
+<li>
+<p>Matlab MuPad</p>
+</li>
+<li>
+<p>Maple</p>
+</li>
 </ol>
 </div>
+</div>
+<div class="sect2">
+<h3 id="_warum">1.3. Warum?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>bekannteste Chatbots</p>
+</li>
+<li>
+<p>sind (durch Versagen oder Genialität) häufig Teil der medialen Aufmerksamkeit</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_was_wird_nicht_verwendet">1.4. Was wird nicht verwendet</h3>
+
 </div>
 </div>
 </div>
@@ -725,12 +757,132 @@ e) Mängel an Karosserie, Motor und Elektrik?</pre>
 </div>
 </div>
 </div>
+<div class="sect2">
+<h3 id="_test_2">2.2. Test 2</h3>
+<div class="sect3">
+<h4 id="_datum_2">2.2.1. Datum</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>19.6.2024</p>
+</li>
+</ul>
+</div>
+<hr>
+</div>
+<div class="sect3">
+<h4 id="_aufgabenstellung_2">2.2.2. Aufgabenstellung</h4>
+<div class="literalblock">
+<div class="content">
+<pre>Aus Erfahrung ist bekannt, dass bei Fahrzeugen, die der Autohändler "Marschda" in Zahlung nimmt, zu 45 % Mängel am Motor, zu 55% an der Karosserie und zu 10 % an Motor und Karosserie auftreten. Mit Wahrscheinlichkeit 40% weisen die Fahrzeuge Mängel an der Elektrik auf. Diese Mängel treten unabhängig von denen an Motor und Karosserie auf. Wie groß ist die Wahrscheinlichkeit dafür, dass ein in Zahlung genommener Wagen
+ a) Mängel an der Karosserie, aber nicht am
+    Motor aufweist,
+ b) Mängel am Motor, aber nicht an der
+    Karosserie besitzt,
+ c) ohne Mängel an Motor und Karosserie ist,
+ d) auch einen Mangel am Motor besitzt, wenn      offensichtlich ist, dass die Karosserie       Schäden aufweist,
+ e) Mängel an Karosserie, Motor und Elektrik?</pre>
+</div>
+</div>
+<hr>
+</div>
+<div class="sect3">
+<h4 id="_lösung_2">2.2.3. Lösung</h4>
+<div class="literalblock">
+<div class="content">
+<pre>1a) 0,45
+1b) 0,35
+1c) 0,1
+1d) 0,182
+1e) 0,04</pre>
+</div>
+</div>
+<hr>
+</div>
+<div class="sect3">
+<h4 id="_antwort_der_chatbots_2">2.2.4. Antwort der Chatbots</h4>
+<div class="sect4">
+<h5 id="_chatgpt_2">ChatGPT</h5>
+<div class="paragraph">
+<p>Um die Wahrscheinlichkeiten zu berechnen, beginnen wir mit der Darstellung der gegebenen Wahrscheinlichkeiten:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>P(K)=0.55P(K)=0.55: Wahrscheinlichkeit für Mängel an der Karosserie
+P(M)=0.45P(M)=0.45: Wahrscheinlichkeit für Mängel am Motor
+P(K∩M)=0.10P(K∩M)=0.10: Wahrscheinlichkeit für Mängel an der Karosserie und am Motor
+P(E)=0.40P(E)=0.40: Wahrscheinlichkeit für Mängel an der Elektrik</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Wir können auch die Wahrscheinlichkeit für Mängel an nur einem Teil (Motor oder Karosserie) berechnen:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Mängel nur an der Karosserie, aber nicht am Motor:
+P(K∩¬M)=P(K)−P(K∩M)=0.55−0.10=0.45P(K∩¬M)=P(K)−P(K∩M)=0.55−0.10=0.45</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Mängel nur am Motor, aber nicht an der Karosserie:
+P(M∩¬K)=P(M)−P(K∩M)=0.45−0.10=0.35P(M∩¬K)=P(M)−P(K∩M)=0.45−0.10=0.35</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Keine Mängel an Motor und Karosserie:
+P(¬M∩¬K)=1−P(K∪M)P(¬M∩¬K)=1−P(K∪M)
+Da P(K∪M)=P(K)+P(M)−P(K∩M)P(K∪M)=P(K)+P(M)−P(K∩M):
+P(K∪M)=0.55+0.45−0.10=0.90P(K∪M)=0.55+0.45−0.10=0.90
+P(¬M∩¬K)=1−0.90=0.10P(¬M∩¬K)=1−0.90=0.10</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Mängel am Motor, gegeben dass Mängel an der Karosserie vorhanden sind:
+P(M∣K)=P(M∩K)P(K)=0.100.55≈0.1818P(M∣K)=P(K)P(M∩K)​=0.550.10​≈0.1818</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Mängel an Karosserie, Motor und Elektrik:
+Da die Mängel an der Elektrik unabhängig von den Mängeln an Motor und Karosserie sind:
+P(K∩M∩E)=P(K∩M)×P(E)=0.10×0.40=0.04P(K∩M∩E)=P(K∩M)×P(E)=0.10×0.40=0.04</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Zusammenfassend sind die Wahrscheinlichkeiten:</p>
+</div>
+<div class="paragraph">
+<p>a) Mängel an der Karosserie, aber nicht am Motor:
+P(K∩¬M)=0.45P(K∩¬M)=0.45</p>
+</div>
+<div class="paragraph">
+<p>b) Mängel am Motor, aber nicht an der Karosserie:
+P(M∩¬K)=0.35P(M∩¬K)=0.35</p>
+</div>
+<div class="paragraph">
+<p>c) Ohne Mängel an Motor und Karosserie:
+P(¬M∩¬K)=0.10P(¬M∩¬K)=0.10</p>
+</div>
+<div class="paragraph">
+<p>d) Mängel am Motor, wenn Mängel an der Karosserie vorhanden sind:
+P(M∣K)=≈0.1818P(M∣K)=≈0.1818</p>
+</div>
+<div class="paragraph">
+<p>e) Mängel an Karosserie, Motor und Elektrik:
+P(K∩M∩E)=0.04P(K∩M∩E)=0.04</p>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2024-06-18 11:29:05 +0200
+Last updated 2024-06-20 10:13:20 +0200
 </div>
 </div>
 <script>

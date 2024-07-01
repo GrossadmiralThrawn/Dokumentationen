@@ -165,22 +165,54 @@ auf die Nutzung von Gen AI)
 
 ===== ChatGPT
 image::Test_1_ChatGPT_Bild_1.png[Erster Teil der Antwort, alt="Zeigt den ersten Teil der Antwort ChatGPTs", align=center]
+
+Punkte: 1/1
+
 image::Test_1_ChatGPT_Bild_2.png[Zweiter Teil der Antwort, alt="Der Tragödie zweiter Teil", align=center]
+Punkte: 2/2
+
 image::Test_1_ChatGPT_Bild_3.png[Dritter Teil der Antwort, alt="Der Tragödie dritter Teil", align=center]
+
+Punkte: 1/1
+
 image::Test_1_ChatGPT_Bild_4.png[Vierter Teil der Antwort, alt="Der Tragödie vierter Teil", align=center]
+
+Punkte: 2/2
+
 image::Test_1_ChatGPT_Bild_5.png[Fünfter Teil der Antwort, alt="Der Tragödie fünfter Teil, align=center]
+
+Punkte: 1/1
+
 image::Test_1_ChatGPT_Bild_6.png[Sechster Teil der Antwort, alt="Der Tragödie sechster Teil", align=center]
 
+Punkte: 1/1
 
 '''
 
 
 ===== Gemini
 image::Test_1_Gemini_Bild_1.png[Teil 1 der Antwort Geminis, alt="Beginn der Antwort Geminis",align=center]
+
+Punkte: 1/1
+
 image::Test_1_Gemini_Bild_2.png[Teil 2 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center]
+
+Punkte: 2/2
+
 image::Test_1_Gemini_Bild_4.png[Teil 3 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center]
+
+Punkte: 1/1
+
 image::Test_1_Gemini_Bild_3.png[Teil 4 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center]
+
+Punkte: 1.5/2
+
 image::Test_1_Gemini_Bild_5.png[Teil 1 der Antwort Geminis, alt="Beginn der Antwort Geminis", align=center]
+
+Punkte: 1/1
+
+==== Zusammenfassung
+ChatGPT hat sehr gute Ergebnisse abgeliefert. Zwar ist der Lösungsweg etwas kurz geraten, jedoch wurden korrekte Ergebnisse abgeliefert. Dem steht Gemini leicht entgegen, welches zwar gute Ansätze hatte, aber die Aufgabe e überhaupt nicht lösen konnte. Anscheinend scheinen hier noch starke technologische Unterschiede zu herrschen, die bis heute noch nicht ausgeglichen werden konnten. Geminis fehler könnten aber auch auf die starken Eingriffe der Entwickler zurückzuführen sein, welche nach der Manipulation Geminis durch rechte Trolle nötig waren.
 
 === Test 2
 ==== Datum
@@ -213,17 +245,34 @@ image::Test_1_Gemini_Bild_5.png[Teil 1 der Antwort Geminis, alt="Beginn der Antw
 
 ===== ChatGPT
 image::Test_2_ChatGPT_Bild_1.png[Teil 1 der Antwort ChatGPTs, alt="Beginn der Antwort ChatGPTs.", align=center]
+Punkte: 1/1
+
 image::Test_2_ChatGPT_Bild_2.png[Teil 2 der Antwort ChatGPTs, alt="Beginn der Antwort ChatGPTs.", align=center]
+Punkte: 2/2
+
 image::Test_2_ChatGPT_Bild_3.png[Teil 3 der Antwort ChatGPTs, alt="Beginn der Antwort ChatGPTs.", align=center]
+Punkte: 2/2
+
 image::Test_2_ChatGPT_Bild_4.png[Teil 4 der Antwort ChatGPTs, alt="Beginn der Antwort ChatGPTs.", align=center]
+Punkte: 1/1
 
 '''
 
 ===== Gemini
 image::Test_2_Gemini_Bild_1.jpg[Teil 1 der Antwort Geminis, alt="Beginn der Antwort Geminis.", align=center]
+Punkte: 1.5/2
+
 image::Test_2_Gemini_Bild_2.jpg[Teil 2 der Antwort Geminis, alt="Beginn der Antwort Geminis.", align=center]
+Punkte: 1/1
+
 image::Test_2_Gemini_Bild_3.jpg[Teil 3 der Antwort Geminis, alt="Beginn der Antwort Geminis.", align=center]
+Punkte: 2/2
+
 image::Test_2_Gemini_Bild_4.jpg[Teil 4 der Antwort Geminis, alt="Beginn der Antwort Geminis.", align=center]
+Punkte: 2/2
+
+==== Auswertung
+Bei diesem einige Tage später ausgeführtem Test sind ChatGPTs Ergebnisse gleich geblieben, während Gemini weiter abgebaut hat. Letzterer hat deutlich mehr falsche oder gar keine Ergebnisse geliefert.
 
 '''
 

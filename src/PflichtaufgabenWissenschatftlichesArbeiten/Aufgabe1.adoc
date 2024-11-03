@@ -1,0 +1,70 @@
+= Pflichtaufgabe 1 Wissenschaftliches Arbeiten
+:project_name: Wissenschaftliches Arbeiten Aufgabe 1
+:toc: left
+:toc-title: Inhaltsverzeichnis
+:numbered:
+
+[sidebar]
+.Autor Informationen
+* **Name**: Lukas Philipp Diettrich
+* **Matrikelnummer**: 28724
+
+
+
+
+== Aufgabe 1
+=== Aufgabenstellung
+Wie wird der Begriff Modell definiert?
+
+=== Lösung
+Ein Modell ist eine vereinfachte Darstellung der Realität. Es dient dazu entweder etwas
+bereits existierendes abzubilden oder als Schablone für ein bestimmtes Vorgehen/Produkt
+herzuhalten. Somit dienen sie als Unterstützung des geistigen Verständnisses der realen
+Welt. Gleichzeitig müssen aber auch unwichtige Details weggelassen werden, da das Modell
+einfacher zu verstehen sein soll als das abzubildende Konstrukt.
+
+
+
+== Aufgabe 2
+=== Aufgabenstellung
+Inwiefern ähneln sich Modelle und Theorien?
+
+=== Erklärung Theorie
+Eine Theorie bezeichnet das systematische, nach bestimmten Prinzipien geordnete
+Beobachten und Erklären der Realität. T. schafft Erkenntnisse, die als Instrument
+zur Ordnung und Bewältigung des Alltags (Praxis) eingesetzt werden können.
+Spez.: Es wird unterschieden zwischen a) reiner T., die auf keine Zwecke außerhalb
+des bloßen Erkennens gerichtet ist (ugs. auch abwertend gemeint), und b) einem
+wissenschaftlichen Aussagensystem, das (z. B. aufgrund empirischer Befunde) in der
+Lage ist, das Eintreten von Ereignissen (mit einer bestimmten Wahrscheinlichkeit)
+vorauszusagen.
+
+Zitat: https://www.bpb.de/kurz-knapp/lexika/politiklexikon/18336/theorie/ vom 3.11.2024 13:53 Uhr
+
+=== Ähnlichkeiten zu Modell
+- Beide versuchen Sachverhalte zu verstehen,
+- Beide beziehen sich auf reale Welt
+
+
+
+== Aufgabe 3
+=== Aufgabenstellung
+Ist die Story am Ende des Textes (Fische) ein Beispiel
+für einen induktiven oder deduktiven Schluss (VVgl. Text zu erkenntnistheoretischen Positionen)
+
+=== Vergleich
+|===
+| Induktiver Schluss                                                                           | Deduktiver Schluss
+| Logischer Denkprozess, kombiniert verschiedene, wahre Beobachtungen. Daraus Theoriebildung.  | Ergebnis wird als Grundlage genommen. Dann Erstellung von Prämissen aus dem Ergebnis (Topdown-Ansatz)
+|===
+
+=== Schlussfolgerung und Begründung
+Das Beispiel ist ein induktiver Schluss, da aus den beiden Tatsachen, dass keine Fische, welche kleiner als
+fünf Zentimeter sind und die Maschen fünf Zentimeter groß sind, geschlossen wird, dass kein Fisch kleiner als fünf
+Zentimeter ist.
+
+== Aufgabe 4
+=== Aufgabenstellung
+Recherchieren Sie eigenständig: Um was für eine
+Quelle handelt es sich bei diesem Beitrag genau? Was lässt sich über die Publikation alles herausfinden?
+

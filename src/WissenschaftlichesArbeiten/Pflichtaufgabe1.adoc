@@ -1,0 +1,72 @@
+= Wissenschaftliches Arbeiten Pflichtaufgabe 1
+:toc:
+:toc-title: Inhaltsverzeichnis
+:numbered:
+
+[sidebar]
+.Autor Informationen
+* **Name**: Lukas Philipp Diettrich
+* **Matrikelnummer**: 28724
+
+
+== Aufgabe 1
+=== Aufgabenstellung
+Wie wird der Begriff Modell definiert?
+
+=== Definition
+Ein Modell stellt eine Abstraktion eines Sachverhalts oder einer Sache dar.
+Oft dient es als Vorbild zur Orientierung, beispielsweise in der Mode oder für
+Nachbauten oder als Erklärung komplexer Sachverhalte, in welchem unwichtige Details
+ausgelassen werden.
+
+== Aufgabe 2
+=== Aufgabenstellung
+Inwiefern ähneln sie Modelle und Theorien?
+
+=== Erklärung Theorie
+Eine Theorie dient zur Erklärung oder Vorhersage eines realen Zustands.
+Sie ist aus mehreren Hypothesen oder Gesetzmäßigkeiten zusammengesetzt.
+Beispiele hierfür sind die Evolutions, Urknall oder Quantentheorie.
+
+=== Daraus folgende Ähnlichkeiten
+- Beide dienen als Erklärung der Realität
+- Beide sind abstrakt gehalten, beinhalten also wenige Details
+
+== Aufgabe 3
+=== Aufgabenstellung
+Ist die Story am Ende des Textes (Fischer) ein Beispiel für einen induktiven
+oder einen deduktiven Schluss? (Vgl. Text zu erkenntnistheoretischen Positionen)
+
+=== Vergleich induktiver und deduktiver Vergleich
+|===
+|Vergleichskriterium | Induktiv                             | Deduktiv
+|Voraussetzungen     | Verschiedene wahre Ausgangstatsachen | Theorie als Grundvoraussetzung
+|Ziel                | Theorie zur Erklärung der Fakten     | Prämissen zur Erklärung der Theorie
+|===
+[quote, "Voxco", link="https://www.voxco.com/de/blog/induktives-vs-deduktives-denken/"]
+____
+"Induktives Denken und deduktives Denken sind zwei fundamentale Methoden des logischen Denkens, die häufig zur Analyse und Interpretation von Informationen verwendet werden. Während induktives Denken oft von spezifischen Beobachtungen zu allgemeinen Schlussfolgerungen führt, beginnt deduktives Denken mit allgemeinen Prinzipien, um spezifische Resultate abzuleiten."
+____
+Zugriff am 4.11.2024, 09:52
+
+=== Schlussfolgerung
+Der angegebene Text hat man ein Netz mit der Maschenweite fünf Zentimeter
+zur Verfügung. Des Weiteren werden keine Fische, welche kleiner als fünf
+Zentimeter sind gefangen. Daraus wird abgeleitet, dass es keine kleineren
+Fische gibt. Daraus folgt, dass dies ein induktiver Schluss ist, da alle Fakten
+bereist vorhanden sind und deduktive Schlüsse eine Top-Down-Strategie fahren.
+
+== Aufgabe 4
+=== Aufgabenstellung
+Recherchieren Sie eigenständig: Um was für eine Quelle handelt es sich bei diesem
+Beitrag genau? Was lässt sich über diese Publikation alles herausfinden?
+
+=== Aufgabenteil a
+Der Text ist eine Sekundärquelle, da er mehrere bestehende Daten zusammenfasst.
+
+=== Aufgabenteil b
+Veröffentlicht wurde der Text im Fachjournal WiSt - Wirtschaftswissenschaftliches
+Studium veröffentlicht (Juni-Ausgabe, Band 42, Nummer 6, Seiten 280-285) im Jahr
+2013. Der Autor war Magnus Richter.
+
+
